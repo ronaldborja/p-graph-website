@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b189bf3d-73ad-4fd4-b664-6b61a04dd329
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/ronaldborja/p-graph-website
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
